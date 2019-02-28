@@ -10,3 +10,8 @@ Collection of articles, posts, and more to read and summarize
 ### Accessibility
 
 [Accessibility guide](https://webaccessibility.guide/)
+
+
+### CSS / Styling 
+
+[30 seconds of CSS – Snippets](https://30-seconds.github.io/30-seconds-of-css/)
