@@ -15,3 +15,7 @@ Collection of articles, posts, and more to read and summarize
 ### CSS / Styling 
 
 [30 seconds of CSS – Snippets](https://30-seconds.github.io/30-seconds-of-css/)
+
+### Entreprenuership
+
+[How to be successful – Sam Altman](https://blog.samaltman.com/how-to-be-successful)
