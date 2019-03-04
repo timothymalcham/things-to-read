@@ -1,6 +1,10 @@
 # things-to-read
 Collection of articles, posts, and more to read and summarize 
 
+## React
+
+### React Perf
+[Progressive React](https://houssein.me/progressive-react?utm_source=reactdigest&utm_medium=email&utm_campaign=featured)
 
 ### React Hooks
 
