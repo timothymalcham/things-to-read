@@ -11,6 +11,7 @@ Collection of articles, posts, and more to read and summarize
 ### React Hooks
 
 [Simplify forms with react hooks](https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms/)
+[Getting hooked on react hooks](https://tech.okcupid.com/getting-hooked-on-react-hooks/)
 
 
 ### Accessibility
@@ -21,6 +22,7 @@ Collection of articles, posts, and more to read and summarize
 ### CSS / Styling 
 
 [30 seconds of CSS – Snippets](https://30-seconds.github.io/30-seconds-of-css/)
+
 
 ### Entreprenuership
 
