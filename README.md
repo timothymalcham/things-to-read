@@ -36,3 +36,7 @@ Collection of articles, posts, and more to read and summarize
 ### Entreprenuership
 
 - [How to be successful – Sam Altman](https://blog.samaltman.com/how-to-be-successful)
+
+### Machine learning
+
+- (Intro to neural networks)[https://victorzhou.com/blog/intro-to-neural-networks]
