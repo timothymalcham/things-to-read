@@ -40,3 +40,7 @@ Collection of articles, posts, and more to read and summarize
 ### Machine learning
 
 - [Intro to neural networks](https://victorzhou.com/blog/intro-to-neural-networks)
+
+### Devops 
+
+- [Docker, beginner to master](https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b)
