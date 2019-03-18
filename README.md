@@ -47,3 +47,7 @@ Collection of articles, posts, and more to read and summarize
 ### Devops 
 
 - [Docker, beginner to master](https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b)
+
+### Security
+
+- [How to learn penetration testing](https://dev.to/kathyra_/how-to-learn-penetration-testing-a-beginners-tutorial-505a)
