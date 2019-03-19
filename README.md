@@ -1,4 +1,4 @@
-# things-to-read
+# Things to read and learn
 Collection of articles, posts, and more to read and summarize 
 
 ## Engineering
@@ -41,9 +41,10 @@ Collection of articles, posts, and more to read and summarize
 
 - [How to be successful – Sam Altman](https://blog.samaltman.com/how-to-be-successful)
 
-### Machine learning
+### Machine learning & Data science
 
 - [Intro to neural networks](https://victorzhou.com/blog/intro-to-neural-networks)
+- [Learn data science](https://www.kaggle.com/learn/overview)
 
 ### Devops 
 
