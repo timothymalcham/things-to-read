@@ -56,3 +56,7 @@ Collection of articles, posts, and more to read and summarize
 ### Security
 
 - [How to learn penetration testing](https://dev.to/kathyra_/how-to-learn-penetration-testing-a-beginners-tutorial-505a)
+
+## Design
+
+- [Humane by design](https://humanebydesign.com/)
