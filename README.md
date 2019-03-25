@@ -10,6 +10,7 @@ Collection of articles, posts, and more to read and summarize
 
 ## React
 
+- [Writing resilient component](https://overreacted.io/writing-resilient-components/)
 - [React component composition](https://www.robinwieruch.de/react-component-composition/)
 - [How are function components different from classes?](https://overreacted.io/how-are-function-components-different-from-classes)
 - [Publishing a react component as an NPM module](https://parastudios.de/create-a-react-component-as-npm-module)
