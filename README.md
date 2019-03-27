@@ -5,6 +5,7 @@ Collection of articles, posts, and more to read and summarize
 
 - [Understand, design, build: A framework for problem-solving](https://lob.com/blog/understand-design-build-a-framework-for-problem-solving?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 - [Towards zero bugs](https://dev.to/conw_y/towards-zero-bugs-1bop)
+- [Elements of UI engineering](https://overreacted.io/the-elements-of-ui-engineering/)
 
 ## Javascript
 
