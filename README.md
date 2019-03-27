@@ -11,9 +11,9 @@ Collection of articles, posts, and more to read and summarize
 
 ## React
 
-- #### [Writing resilient component](https://overreacted.io/writing-resilient-components/)
+- ### [Writing resilient components](https://overreacted.io/writing-resilient-components/)
 
-  **Key take aways:** 
+  _Key take aways:_ 
   > If you’re not sure whether some state is local, ask yourself: “If this component was rendered twice, should this interaction  reflect in the other copy?” Whenever the answer is “no”, you found some local state.
 
 - [React component composition](https://www.robinwieruch.de/react-component-composition/)
