@@ -54,6 +54,7 @@ Collection of articles, posts, and more to read and summarize
 
 - [Intro to neural networks](https://victorzhou.com/blog/intro-to-neural-networks)
 - [Learn data science](https://www.kaggle.com/learn/overview)
+- [ML engineer learning path](https://github.com/clone95/Virgilio/tree/master/Careers/Machine%20Learning%20Engineer%20Career%20Path)
 
 ### Devops 
 
