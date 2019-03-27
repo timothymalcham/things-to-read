@@ -14,7 +14,7 @@ Collection of articles, posts, and more to read and summarize
 
 **Key take aways:** 
 
-| If you’re not sure whether some state is local, ask yourself: “If this component was rendered twice, should this interaction | reflect in the other copy?” Whenever the answer is “no”, you found some local state.
+If you’re not sure whether some state is local, ask yourself: “If this component was rendered twice, should this interaction | reflect in the other copy?” Whenever the answer is “no”, you found some local state.
 
 - [React component composition](https://www.robinwieruch.de/react-component-composition/)
 - [How are function components different from classes?](https://overreacted.io/how-are-function-components-different-from-classes)
