@@ -40,6 +40,7 @@ Collection of articles, posts, and more to read and summarize
 ### Accessibility
 
 - [Accessibility guide](https://webaccessibility.guide/)
+- [Auto ids](https://tympanus.us10.list-manage.com/track/click?u=10ffec652b0f54fe5d8682ac0&id=6783bc06d4&e=1c9e8af849)
 
 
 ### CSS / Styling 
