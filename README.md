@@ -21,6 +21,7 @@ Collection of articles, posts, and more to read and summarize
 - [Publishing a react component as an NPM module](https://parastudios.de/create-a-react-component-as-npm-module)
 - [Build a swipeable list with react](https://malcoded.com/posts/react-swipeable-list)
 - [Scheduling in react](https://philippspiess.com/scheduling-in-react/)
+- [Using boolean React props](https://spicefactory.co/blog/2019/03/26/how-to-avoid-the-boolean-trap-when-designing-react-components/)
 
 ### React Perf
 
