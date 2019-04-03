@@ -41,6 +41,7 @@ Collection of articles, posts, and more to read and summarize
 
 - [Accessibility guide](https://webaccessibility.guide/)
 - [Auto ids](https://tympanus.us10.list-manage.com/track/click?u=10ffec652b0f54fe5d8682ac0&id=6783bc06d4&e=1c9e8af849)
+- [Semantic HTML](https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i)
 
 
 ### CSS / Styling 
