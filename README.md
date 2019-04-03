@@ -32,6 +32,7 @@ Collection of articles, posts, and more to read and summarize
 - [Simplify forms with react hooks](https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms/)
 - [Getting hooked on react hooks](https://tech.okcupid.com/getting-hooked-on-react-hooks/)
 - [Using react hooks with typescript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
+- [Formal – hooks for forms](https://github.com/kevinwolfcr/formal)
 
 ### Apollo
 
