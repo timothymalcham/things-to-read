@@ -68,6 +68,7 @@ Collection of articles, posts, and more to read and summarize
 ### Devops 
 
 - [Docker, beginner to master](https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b)
+- [Build your first AWS serverless app](https://pawelgrzybek.com/build-your-first-aws-serverless-app/)
 
 ### Security
 
