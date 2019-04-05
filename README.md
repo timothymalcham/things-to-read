@@ -38,6 +38,10 @@ Collection of articles, posts, and more to read and summarize
 
 - [Apollo app starter kit](https://apolloapp.org/)
 
+### Elixir
+
+- [Build an Elixir cli web scraper](https://www.stevenmercatante.com/elixir-cli-web-scraper/)
+
 ### Accessibility
 
 - [Accessibility guide](https://webaccessibility.guide/)
