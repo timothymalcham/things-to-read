@@ -33,6 +33,7 @@ Collection of articles, posts, and more to read and summarize
 - [Getting hooked on react hooks](https://tech.okcupid.com/getting-hooked-on-react-hooks/)
 - [Using react hooks with typescript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
 - [Formal – hooks for forms](https://github.com/kevinwolfcr/formal)
+- [How to avoid passing callbacks down](https://reactjs.org/docs/hooks-faq.html#how-to-avoid-passing-callbacks-down)
 
 ### Apollo
 
