@@ -61,6 +61,7 @@ Collection of articles, posts, and more to read and summarize
 ### Entreprenuership
 
 - [How to be successful – Sam Altman](https://blog.samaltman.com/how-to-be-successful)
+- [750 words case study/interview](https://www.indiehackers.com/interview/063525ef84?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190403&utm_medium=email)
 
 ### Machine learning & Data science
 
