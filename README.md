@@ -81,3 +81,7 @@ Collection of articles, posts, and more to read and summarize
 ## Design
 
 - [Humane by design](https://humanebydesign.com/)
+
+## Equity/Fintech
+
+- [What is a cap table](https://carta.com/blog/what-is-a-cap-table/)
