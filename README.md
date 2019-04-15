@@ -24,6 +24,7 @@ Collection of articles, posts, and more to read and summarize
 - [Build a swipeable list with react](https://malcoded.com/posts/react-swipeable-list)
 - [Scheduling in react](https://philippspiess.com/scheduling-in-react/)
 - [Using boolean React props](https://spicefactory.co/blog/2019/03/26/how-to-avoid-the-boolean-trap-when-designing-react-components/)
+- [Testing stateful react function components with react testing library](https://www.robertcooper.me/testing-stateful-react-function-components-with-react-testing-library)
 
 ### React Perf
 
