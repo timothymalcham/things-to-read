@@ -29,6 +29,7 @@ Collection of articles, posts, and more to read and summarize
 - [Scheduling in react](https://philippspiess.com/scheduling-in-react/)
 - [Using boolean React props](https://spicefactory.co/blog/2019/03/26/how-to-avoid-the-boolean-trap-when-designing-react-components/)
 - [Testing stateful react function components with react testing library](https://www.robertcooper.me/testing-stateful-react-function-components-with-react-testing-library)
+- [How to create an accessible react modal](https://levelup.gitconnected.com/how-to-create-an-accessible-react-modal-5b87e6a27503)
 
 ### React Perf
 
