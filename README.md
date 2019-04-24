@@ -52,6 +52,10 @@ Collection of articles, posts, and more to read and summarize
 ### Elixir
 
 - [Build an Elixir cli web scraper](https://www.stevenmercatante.com/elixir-cli-web-scraper/)
+– [TDD in Elixir](https://medium.com/podium-engineering/test-driven-development-why-elixir-excels-at-tdd-8b5f1a51aee3)
+- [User uploads in Phoenix](https://www.poeticoding.com/step-by-step-tutorial-to-build-a-phoenix-app-that-supports-user-uploads/?utm_source=elixirdigest&utm_medium=email&utm_campaign=featured)
+- [Elixir liveviews and pubsub](https://elixirschool.com/blog/live-view-with-pub-sub/?utm_source=elixirdigest&utm_medium=email&utm_campaign=featured)
+
 
 ### Accessibility
 
