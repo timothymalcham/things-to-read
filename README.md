@@ -15,6 +15,7 @@ Collection of articles, posts, and more to read and summarize
 ## Javascript
 
 - [12 Javascript tricks](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d)
+- [7 JS tricks](https://davidwalsh.name/javascript-tricks)
 
 ## React
 
