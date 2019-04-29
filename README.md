@@ -57,6 +57,7 @@ Collection of articles, posts, and more to read and summarize
 – [TDD in Elixir](https://medium.com/podium-engineering/test-driven-development-why-elixir-excels-at-tdd-8b5f1a51aee3)
 - [User uploads in Phoenix](https://www.poeticoding.com/step-by-step-tutorial-to-build-a-phoenix-app-that-supports-user-uploads/?utm_source=elixirdigest&utm_medium=email&utm_campaign=featured)
 - [Elixir liveviews and pubsub](https://elixirschool.com/blog/live-view-with-pub-sub/?utm_source=elixirdigest&utm_medium=email&utm_campaign=featured)
+- [Elixir, Phoenix, React, Graphql](https://schneider.dev/blog/elixir-phoenix-absinthe-graphql-react-apollo-absurdly-deep-dive/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_158)
 
 
 ### Accessibility
