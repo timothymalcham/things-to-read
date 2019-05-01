@@ -86,7 +86,11 @@ Collection of articles, posts, and more to read and summarize
 
 ### Devops 
 
+#### Docker
 - [Docker, beginner to master](https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b)
+- [Docker crash course](https://dev.to/azure/a-crash-course-to-the-most-important-docker-concepts-and-their-commands-4eio?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
+#### AWS
 - [Build your first AWS serverless app](https://pawelgrzybek.com/build-your-first-aws-serverless-app/)
 
 ### Security
