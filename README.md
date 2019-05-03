@@ -37,6 +37,7 @@ Collection of articles, posts, and more to read and summarize
 ### React Perf
 
 - [Progressive React](https://houssein.me/progressive-react?utm_source=reactdigest&utm_medium=email&utm_campaign=featured)
+- [Airbnb case study](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
 
 ### React Hooks
 
