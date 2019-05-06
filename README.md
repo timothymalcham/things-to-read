@@ -131,3 +131,8 @@ Collection of articles, posts, and more to read and summarize
 - [RSAs vs RSUs](https://carta.com/blog/breaking-down-rsas-and-rsus/)
 - [Tender Offer FAQ](https://carta.com/blog/tender-offer-faq/)
 - [How pro rata works in venture capital deals](https://news.crunchbase.com/news/pro-rata-works-venture-capital-deals/)
+
+## General life
+
+### Health, sleep, & food
+- [Fall asleep faster with combat pilot sleep trick](https://www.inc.com/melanie-curtin/want-to-fall-asleep-faster-combat-pilots-use-this-hack-to-get-to-sleep-in-2-minutes-or-less.html?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
