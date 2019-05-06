@@ -52,6 +52,7 @@ Collection of articles, posts, and more to read and summarize
 - [Complete guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
 - [When to use react useRef and useLayoutEffect](https://dev.to/rleija_/when-to-use-react-useref-and-uselayouteffect-57kh)
 - [Advanced React hooks](https://testdriven.io/blog/react-hooks-advanced/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_157#.XLcod_Gltqo.reddit)
+- [How do hooks really work?](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_157)
 
 ### Apollo
 
