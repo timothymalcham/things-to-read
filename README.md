@@ -50,6 +50,8 @@ Collection of articles, posts, and more to read and summarize
 - [How to avoid passing callbacks down](https://reactjs.org/docs/hooks-faq.html#how-to-avoid-passing-callbacks-down)
 - [From redux to hooks](https://staleclosures.dev/from-redux-to-hooks-case-study/)
 - [Complete guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
+- [When to use react useRef and useLayoutEffect](https://dev.to/rleija_/when-to-use-react-useref-and-uselayouteffect-57kh)
+- [Advanced React hooks](https://testdriven.io/blog/react-hooks-advanced/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_157#.XLcod_Gltqo.reddit)
 
 ### Apollo
 
