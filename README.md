@@ -93,6 +93,8 @@ Collection of articles, posts, and more to read and summarize
 
 ### Devops 
 
+- [SQL inner and outer joins](https://eli.thegreenplace.net/2019/sql-inner-and-outer-joins/?utm_source=Morning+Cup+of+Coding&utm_campaign=884930cd94-EMAIL_CAMPAIGN_2019_04_23_08_42&utm_medium=email&utm_term=0_56b5f64c5f-884930cd94-57151633)
+
 #### Docker
 - [Docker, beginner to master](https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b)
 - [Docker crash course](https://dev.to/azure/a-crash-course-to-the-most-important-docker-concepts-and-their-commands-4eio?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
