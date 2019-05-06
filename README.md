@@ -33,6 +33,8 @@ Collection of articles, posts, and more to read and summarize
 - [Testing stateful react function components with react testing library](https://www.robertcooper.me/testing-stateful-react-function-components-with-react-testing-library)
 - [How to create an accessible react modal](https://levelup.gitconnected.com/how-to-create-an-accessible-react-modal-5b87e6a27503)
 – [Using react for state management](https://kentcdodds.com/blog/application-state-management-with-react)
+- [React as a UI runtime](https://overreacted.io/react-as-a-ui-runtime/)
+- [How are function components different from classes](https://overreacted.io/how-are-function-components-different-from-classes/)
 
 ### React Perf
 
@@ -47,6 +49,7 @@ Collection of articles, posts, and more to read and summarize
 - [Formal – hooks for forms](https://github.com/kevinwolfcr/formal)
 - [How to avoid passing callbacks down](https://reactjs.org/docs/hooks-faq.html#how-to-avoid-passing-callbacks-down)
 - [From redux to hooks](https://staleclosures.dev/from-redux-to-hooks-case-study/)
+- [Complete guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
 
 ### Apollo
 
