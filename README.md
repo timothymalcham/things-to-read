@@ -8,6 +8,10 @@ Collection of articles, posts, and more to read and summarize
 - [Elements of UI engineering](https://overreacted.io/the-elements-of-ui-engineering/)
 - [The best devs are raised not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 
+## Python
+
+- [Object oriented programming in python](https://stackabuse.com/object-oriented-programming-in-python/#accessmodifiers)
+
 ## Frontend engineering
 
 - [Frontend handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
