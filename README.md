@@ -16,6 +16,7 @@ Collection of articles, posts, and more to read and summarize
 
 - [12 Javascript tricks](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d)
 - [7 JS tricks](https://davidwalsh.name/javascript-tricks)
+- [10 interview questions every JS dev should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
 ## React
 
@@ -40,6 +41,7 @@ Collection of articles, posts, and more to read and summarize
 
 - [Progressive React](https://houssein.me/progressive-react?utm_source=reactdigest&utm_medium=email&utm_campaign=featured)
 - [Airbnb case study](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
+- [How to avoid React hooks performance pitfall](https://medium.com/@_m1010j_/how-to-avoid-this-react-hooks-performance-pitfall-28770ad9abe0)
 
 ### React Hooks
 
@@ -53,6 +55,9 @@ Collection of articles, posts, and more to read and summarize
 - [When to use react useRef and useLayoutEffect](https://dev.to/rleija_/when-to-use-react-useref-and-uselayouteffect-57kh)
 - [Advanced React hooks](https://testdriven.io/blog/react-hooks-advanced/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_157#.XLcod_Gltqo.reddit)
 - [How do hooks really work?](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_157)
+- [How to use react context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
+- [React useReducer hook](https://www.robinwieruch.de/react-usereducer-hook/)
+- [useReducer vs useState](https://www.robinwieruch.de/react-usereducer-vs-usestate/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_159)
 
 ### Apollo
 
