@@ -113,3 +113,4 @@ Collection of articles, posts, and more to read and summarize
 - [What is SEC rule 144](https://carta.com/blog/rule-144/)
 - [RSAs vs RSUs](https://carta.com/blog/breaking-down-rsas-and-rsus/)
 - [Tender Offer FAQ](https://carta.com/blog/tender-offer-faq/)
+- [How pro rata works in venture capital deals](https://news.crunchbase.com/news/pro-rata-works-venture-capital-deals/)
