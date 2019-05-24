@@ -12,6 +12,10 @@ Collection of articles, posts, and more to read and summarize
 
 - [Object oriented programming in python](https://stackabuse.com/object-oriented-programming-in-python/#accessmodifiers)
 
+### Django
+
+- [Testing django](https://www.obeythetestinggoat.com/pages/book.html#toc)
+
 ## Frontend engineering
 
 - [Frontend handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
@@ -21,6 +25,7 @@ Collection of articles, posts, and more to read and summarize
 - [12 Javascript tricks](https://medium.com/@bretcameron/12-javascript-tricks-you-wont-find-in-most-tutorials-a9c9331f169d)
 - [7 JS tricks](https://davidwalsh.name/javascript-tricks)
 - [10 interview questions every JS dev should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+- [30 seconds of code](https://30secondsofcode.org/)
 
 ## React
 
@@ -40,6 +45,7 @@ Collection of articles, posts, and more to read and summarize
 – [Using react for state management](https://kentcdodds.com/blog/application-state-management-with-react)
 - [React as a UI runtime](https://overreacted.io/react-as-a-ui-runtime/)
 - [How are function components different from classes](https://overreacted.io/how-are-function-components-different-from-classes/)
+– [React interview questions](https://tylermcginnis.com/react-interview-questions/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_131)
 
 ### React Perf
 
@@ -87,6 +93,7 @@ Collection of articles, posts, and more to read and summarize
 
 - [30 seconds of CSS – Snippets](https://30-seconds.github.io/30-seconds-of-css/)
 - [Aligning things](https://www.smashingmagazine.com/2019/03/css-alignment/)
+- [Tailwind](https://tailwindcss.com/docs/what-is-tailwind/)
 
 
 ### Entreprenuership
