@@ -7,6 +7,7 @@ Collection of articles, posts, and more to read and summarize
 - [Towards zero bugs](https://dev.to/conw_y/towards-zero-bugs-1bop)
 - [Elements of UI engineering](https://overreacted.io/the-elements-of-ui-engineering/)
 - [The best devs are raised not hired](https://sizovs.net/2019/04/10/the-best-developers-are-raised-not-hired/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+- [practice engineering interviews](https://www.pramp.com/dev/uc-frontend)
 
 ## Python
 
@@ -52,9 +53,11 @@ Collection of articles, posts, and more to read and summarize
 - [Progressive React](https://houssein.me/progressive-react?utm_source=reactdigest&utm_medium=email&utm_campaign=featured)
 - [Airbnb case study](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
 - [How to avoid React hooks performance pitfall](https://medium.com/@_m1010j_/how-to-avoid-this-react-hooks-performance-pitfall-28770ad9abe0)
+– [5 things to speed up react app](https://www.thedevelobear.com/post/5-things-to-improve-performance/?utm_source=reactdigest&utm_medium=email&utm_campaign=featured)
 
 ### React Hooks
 
+- [useHooks – daily hook recipes](https://usehooks.com/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_138)
 - [Simplify forms with react hooks](https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms/)
 - [Getting hooked on react hooks](https://tech.okcupid.com/getting-hooked-on-react-hooks/)
 - [Using react hooks with typescript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
@@ -100,6 +103,8 @@ Collection of articles, posts, and more to read and summarize
 
 - [How to be successful – Sam Altman](https://blog.samaltman.com/how-to-be-successful)
 - [750 words case study/interview](https://www.indiehackers.com/interview/063525ef84?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190403&utm_medium=email)
+- [Breakout list](https://breakoutlist.com/all/)
+- [Scalable tech stack](https://www.indiehackers.com/@guru_shiva/scalable-tech-stack-cost-effective-secure-infrastructure-a7fe05cb46?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190107&utm_medium=email)
 
 ### Machine learning & Data science
 
