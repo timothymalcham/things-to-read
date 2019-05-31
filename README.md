@@ -76,6 +76,15 @@ Collection of articles, posts, and more to read and summarize
 - [React useReducer hook](https://www.robinwieruch.de/react-usereducer-hook/)
 - [useReducer vs useState](https://www.robinwieruch.de/react-usereducer-vs-usestate/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_159)
 
+
+> The question is not “when does this effect run” the question is “with which state does this effect synchronize with”
+> 
+> useEffect(fn) // all state
+> useEffect(fn, []) // no state
+> useEffect(fn, [these, states])
+> 
+> @ryanflorence on Twitter
+
 ### Apollo
 
 - [Apollo app starter kit](https://apolloapp.org/)
