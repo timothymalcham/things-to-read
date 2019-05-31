@@ -79,9 +79,9 @@ Collection of articles, posts, and more to read and summarize
 
 > The question is not “when does this effect run” the question is “with which state does this effect synchronize with”
 > 
-> useEffect(fn) // all state
-> useEffect(fn, []) // no state
-> useEffect(fn, [these, states])
+> - useEffect(fn) // all state
+> - useEffect(fn, []) // no state
+> - useEffect(fn, [these, states])
 > 
 > @ryanflorence on Twitter
 
