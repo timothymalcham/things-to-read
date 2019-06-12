@@ -3,7 +3,6 @@ Collection of articles, posts, and more to read and summarize
 
 ## DUMP
 
-- [Custom Print Product Drop Shipping - Warehousing & Fulfillment | Printful](https://www.printful.com/)
 - [How To Have A Happy Marriage: 7 Powerful Secrets From Research - Barking Up The Wrong Tree](https://www.bakadesuyo.com/2018/08/how-to-have-a-happy-marriage/)
 - [Vision Tests & Prescriptions From Home](https://www.opternative.com/)
 - [Creative Composition](https://courses.svslearn.com/courses/creative-composition)
