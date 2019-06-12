@@ -48,6 +48,7 @@
 - [React as a UI runtime](https://overreacted.io/react-as-a-ui-runtime/)
 - [How are function components different from classes](https://overreacted.io/how-are-function-components-different-from-classes/)
 – [React interview questions](https://tylermcginnis.com/react-interview-questions/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_131)
+- [CRUV: Structure React apps in 4 directories and 3 files - James K Nelson](http://jamesknelson.com/cruv-react-project-structure/?utm_source=reactdigest&utm_medium=email&utm_campaign=featured)
 
 ### React Perf
 

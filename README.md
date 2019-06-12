@@ -3,7 +3,6 @@ Collection of articles, posts, and more to read and summarize
 
 ## DUMP
 
-- [CRUV: Structure React apps in 4 directories and 3 files - James K Nelson](http://jamesknelson.com/cruv-react-project-structure/?utm_source=reactdigest&utm_medium=email&utm_campaign=featured)
 - [Custom Print Product Drop Shipping - Warehousing & Fulfillment | Printful](https://www.printful.com/)
 - [How To Have A Happy Marriage: 7 Powerful Secrets From Research - Barking Up The Wrong Tree](https://www.bakadesuyo.com/2018/08/how-to-have-a-happy-marriage/)
 - [Vision Tests & Prescriptions From Home](https://www.opternative.com/)
