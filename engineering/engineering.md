@@ -62,6 +62,10 @@
 - [Learn data science](https://www.kaggle.com/learn/overview)
 - [ML engineer learning path](https://github.com/clone95/Virgilio/tree/master/Careers/Machine%20Learning%20Engineer%20Career%20Path)
 
+#### Databeses
+
+- [Databases](https://www.lucidchart.com/pages/database-diagram/database-design)
+
 ### Devops
 
 - [SQL inner and outer joins](https://eli.thegreenplace.net/2019/sql-inner-and-outer-joins/?utm_source=Morning+Cup+of+Coding&utm_campaign=884930cd94-EMAIL_CAMPAIGN_2019_04_23_08_42&utm_medium=email&utm_term=0_56b5f64c5f-884930cd94-57151633)
