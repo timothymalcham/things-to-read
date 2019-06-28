@@ -9,6 +9,10 @@
 - [on being a senior engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 - [lessons learned in software development](https://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/)
 
+## Tools
+
+- [10 developer tools](https://dev.to/shijiezhou/top-10-developer-tools-you-didn-t-know-you-needed-ncf?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
 ## Python
 
 - [Object oriented programming in python](https://stackabuse.com/object-oriented-programming-in-python/#accessmodifiers)
