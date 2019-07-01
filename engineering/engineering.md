@@ -8,6 +8,7 @@
 - [practical advice for new software engineers](https://product.hubspot.com/blog/practical-advice-for-new-software-engineers)
 - [on being a senior engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 - [lessons learned in software development](https://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/)
+- [Absolute truths unlearned as a junior dev](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer)
 
 ## Python
 
