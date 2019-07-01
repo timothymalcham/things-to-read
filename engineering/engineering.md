@@ -10,6 +10,10 @@
 - [lessons learned in software development](https://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/)
 - [Absolute truths unlearned as a junior dev](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer)
 
+## Tools
+
+- [10 developer tools](https://dev.to/shijiezhou/top-10-developer-tools-you-didn-t-know-you-needed-ncf?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
 ## Python
 
 - [Object oriented programming in python](https://stackabuse.com/object-oriented-programming-in-python/#accessmodifiers)
@@ -62,6 +66,10 @@
 - [Intro to neural networks](https://victorzhou.com/blog/intro-to-neural-networks)
 - [Learn data science](https://www.kaggle.com/learn/overview)
 - [ML engineer learning path](https://github.com/clone95/Virgilio/tree/master/Careers/Machine%20Learning%20Engineer%20Career%20Path)
+
+#### Databeses
+
+- [Databases](https://www.lucidchart.com/pages/database-diagram/database-design)
 
 ### Devops
 

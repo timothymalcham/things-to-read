@@ -152,3 +152,9 @@ Collection of articles, posts, and more to read and summarize
 - [3 Places to Try in Seattle This Weekend - Eater Seattle](https://seattle.eater.com/2019/3/29/18287114/things-to-do-weekend-seattle-restaurant-recommendations-2019)
 - [Bashful Birdie | Home](http://www.bashfulbirdie.com/)
 - [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications)
+- [Translating math into code with examples in Java, Racket, Haskell and Python](http://matt.might.net/articles/discrete-math-
+and-code/)
+- [Zdog, Round, flat, designer-friendly 
+pseudo-3D engine for canvas & SVG](https://zzz.dog/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+- [Improve Serialization Performance in Django Rest Framework](https://hakibenita.com/django-rest-framework-slow?fbclid=IwAR0p_ALabNj0rlcO0S9l9o3OPXV53vKDb_L8BMrIrdox39WBKe3FQJUplnQ)
+- []()
