@@ -6,3 +6,4 @@
 ### Django
 
 - [Testing django](https://www.obeythetestinggoat.com/pages/book.html#toc)
+- [Why is Django REST Framework lying to me? - DEV Community 👩‍💻👨‍💻](https://dev.to/rhymes/why-is-django-rest-framework-lying-to-me-3nan)

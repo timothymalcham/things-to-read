@@ -1,5 +1,7 @@
 # Engineering
 
+## General
+
 - [Understand, design, build: A framework for problem-solving](https://lob.com/blog/understand-design-build-a-framework-for-problem-solving?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 - [Towards zero bugs](https://dev.to/conw_y/towards-zero-bugs-1bop)
 - [Elements of UI engineering](https://overreacted.io/the-elements-of-ui-engineering/)
@@ -9,10 +11,26 @@
 - [on being a senior engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 - [lessons learned in software development](https://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/)
 - [Absolute truths unlearned as a junior dev](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer)
+- [Fill The Gaps in Your Career with The Imposter's Handbook | Big Machine](https://bigmachine.io/products/the-imposters-handbook/#want)
+- [The Elements of UI Engineering — Overreacted](https://overreacted.io/the-elements-of-ui-engineering/)
+- [Code smart, not hard - DEV Community 👩‍💻👨‍💻](https://dev.to/solkimicreb/code-smart-not-hard-bb1)
+- [Google Testing Blog: Code Health: Too Many Comments on Your Code Reviews?](https://testing.googleblog.com/2017/06/code-health-too-many-comments-on-your.html)
+- [The 14 habits of highly effective developers (Part 1) - DEV Community 👩‍💻👨‍💻](https://dev.to/pavlosisaris/how-to-transition-from-junior-to-mid-level-developer-part-1-4gig)
+
+## Design/Architecture
+
+- [Code Smells](https://sourcemaking.com/refactoring/smells)
+
+## Programming langauges
+
+- [Table of Contents | Learn You Some Erlang for Great Good!](https://learnyousomeerlang.com/content)
 
 ## Tools
 
 - [10 developer tools](https://dev.to/shijiezhou/top-10-developer-tools-you-didn-t-know-you-needed-ncf?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+- [Tuple — A Screenhero replacement and pair programming tool](https://tuple.app/)
+- [Team communication optimized for deep work – Level](https://level.app/)
+- [20 VS Code Extensions You'll Actually Use - DEV Community 👩‍💻👨‍💻](https://dev.to/vip3rousmango/vs-code-extensions-youll-actually-use-46gp)
 
 ## Frontend engineering
 
@@ -21,6 +39,7 @@
 ### Apollo
 
 - [Apollo app starter kit](https://apolloapp.org/)
+- [Getting started with GraphQL, React and apollo client | Reactgo](https://reactgo.com/graphql-react-apollo-client/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_146)
 
 ### Elixir
 
@@ -30,6 +49,8 @@
 - [Elixir liveviews and pubsub](https://elixirschool.com/blog/live-view-with-pub-sub/?utm_source=elixirdigest&utm_medium=email&utm_campaign=featured)
 - [Elixir, Phoenix, React, Graphql](https://schneider.dev/blog/elixir-phoenix-absinthe-graphql-react-apollo-absurdly-deep-dive/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_158)
 - [elixir & phoenix, build an authenticated app](https://auth0.com/blog/elixir-and-phoenix-tutorial-build-an-authenticated-app/)
+- [How We Learned Elixir—Our Story and Tutorial for Beginners](https://www.monterail.com/blog/learning-elixir-tutorial-guide)
+- [[ Elixir | Why Linked Lists? ] - DEV Community 👩‍💻👨‍💻](https://dev.to/edisonywh/-elixir--why-linked-lists--1e9d)
 
 
 ### Accessibility
@@ -44,14 +65,6 @@
 - [30 seconds of CSS – Snippets](https://30-seconds.github.io/30-seconds-of-css/)
 - [Aligning things](https://www.smashingmagazine.com/2019/03/css-alignment/)
 - [Tailwind](https://tailwindcss.com/docs/what-is-tailwind/)
-
-
-### Entreprenuership
-
-- [How to be successful – Sam Altman](https://blog.samaltman.com/how-to-be-successful)
-- [750 words case study/interview](https://www.indiehackers.com/interview/063525ef84?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190403&utm_medium=email)
-- [Breakout list](https://breakoutlist.com/all/)
-- [Scalable tech stack](https://www.indiehackers.com/@guru_shiva/scalable-tech-stack-cost-effective-secure-infrastructure-a7fe05cb46?utm_source=Indie+Hackers+Newsletter&utm_campaign=indie-hackers-newsletter-20190107&utm_medium=email)
 
 ### Machine learning & Data science
 
@@ -75,6 +88,15 @@
 #### AWS
 - [Build your first AWS serverless app](https://pawelgrzybek.com/build-your-first-aws-serverless-app/)
 
-### Security
+### Security / auth
 
 - [How to learn penetration testing](https://dev.to/kathyra_/how-to-learn-penetration-testing-a-beginners-tutorial-505a)
+- [Be careful of the JWT hype train - DEV Community 👩‍💻👨‍💻](https://dev.to/darraghor/be-careful-of-the-jwt-hype-train-3e81)
+
+### Jobs/Career
+
+- [Find engineering teams that share your values | Key Values](https://www.keyvalues.com/?ref=indielurker_intro)
+- [Rejected.us](https://rejected.us/)
+- [Tips for Work Life Balance — Syntax Podcast 110](https://syntax.fm/show/110/tips-for-work-life-balance)
+- [Remote jobs available in Europe](https://europeremotely.com/)
+- [The Books That Made All The Difference To Me As A Developer - DEV Community 👩‍💻👨‍💻](https://dev.to/antjanus/the-books-that-made-all-the-difference-to-me-as-a-developer-1ijn)

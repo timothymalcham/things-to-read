@@ -11,6 +11,7 @@
 
 - [How To Have A Happy Marriage: 7 Powerful Secrets From Research - Barking Up The Wrong Tree](https://www.bakadesuyo.com/2018/08/how-to-have-a-happy-marriage/)
 - [The First Lesson of Marriage 101: There Are No Soul Mates - The Atlantic - Pocket](https://getpocket.com/explore/item/the-first-lesson-of-marriage-101-there-are-no-soul-mates-545334583)
+- [Every Successful Relationship Is Successful for the Same Exact Reasons - Mark Manson - Pocket](https://getpocket.com/explore/item/every-successful-relationship-is-successful-for-the-same-exact-reasons)
 
 ## Personal projects
 
@@ -31,3 +32,7 @@
 ## Music
 
 - [Shane Barnes is creating a Fretboard Roadmap | Patreon](https://www.patreon.com/shanebarnesmusic)
+
+## Fashion / clothing
+
+- [All Citizens | Microfiber Boxer Briefs](https://allcitizens.com/collections/the-boxer-brief/products/the-athletic-fit-boxer-brief-variant-2)

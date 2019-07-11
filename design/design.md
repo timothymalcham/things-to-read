@@ -1,6 +1,13 @@
 # Design
 
 - [Humane by design](https://humanebydesign.com/)
+- [Exclusive Design](https://exclusive-design.vasilis.nl/)
+- [10 Essential Visual Design Best Practices for Beginners | Designlab](https://trydesignlab.com/blog/essential-visual-design-best-practices-beginners/?me=timothymalcham@gmail.com)
+
+# CSS
+
+- [CodePen - CSS Grid: Train Ticket](https://codepen.io/oliviale/full/MZZYyO)
+- [New Year, New Website – Meagan Fisher – Medium](https://medium.com/@owltastic/new-year-new-website-7065afa64057)
 
 ## Art, illustration
 

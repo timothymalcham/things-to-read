@@ -1,6 +1,6 @@
 # React
 
-- ### [Writing resilient components](https://overreacted.io/writing-resilient-components/)
+- [Writing resilient components](https://overreacted.io/writing-resilient-components/)
 
   _Key take aways:_
   > If you’re not sure whether some state is local, ask yourself: “If this component was rendered twice, should this interaction  reflect in the other copy?” Whenever the answer is “no”, you found some local state.
@@ -19,6 +19,7 @@
 – [React interview questions](https://tylermcginnis.com/react-interview-questions/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_131)
 - [CRUV: Structure React apps in 4 directories and 3 files - James K Nelson](http://jamesknelson.com/cruv-react-project-structure/?utm_source=reactdigest&utm_medium=email&utm_campaign=featured)
 - [10 commandments of components](https://dev.to/selbekk/the-10-component-commandments-2a7f)
+- [Customizing create-react-app: How to Make Your Own Template](https://auth0.com/blog/how-to-configure-create-react-app/)
 
 ### React Perf
 
@@ -52,3 +53,6 @@
 > - useEffect(fn, [these, states])
 >
 > @ryanflorence on Twitter
+
+- [A Simple Intro to React Hooks](https://daveceddia.com/intro-to-hooks/)
+- [28\. Rethinking the component model with Hooks](https://sid.studio/post/rethinking-component-model/)
