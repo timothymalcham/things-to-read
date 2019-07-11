@@ -14,14 +14,6 @@
 
 - [10 developer tools](https://dev.to/shijiezhou/top-10-developer-tools-you-didn-t-know-you-needed-ncf?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 
-## Python
-
-- [Object oriented programming in python](https://stackabuse.com/object-oriented-programming-in-python/#accessmodifiers)
-
-### Django
-
-- [Testing django](https://www.obeythetestinggoat.com/pages/book.html#toc)
-
 ## Frontend engineering
 
 - [Frontend handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
