@@ -20,6 +20,7 @@
 - [CRUV: Structure React apps in 4 directories and 3 files - James K Nelson](http://jamesknelson.com/cruv-react-project-structure/?utm_source=reactdigest&utm_medium=email&utm_campaign=featured)
 - [10 commandments of components](https://dev.to/selbekk/the-10-component-commandments-2a7f)
 - [Customizing create-react-app: How to Make Your Own Template](https://auth0.com/blog/how-to-configure-create-react-app/)
+- [Progressive React](https://houssein.me/progressive-react?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_150)
 
 ### React Perf
 
@@ -56,3 +57,7 @@
 
 - [A Simple Intro to React Hooks](https://daveceddia.com/intro-to-hooks/)
 - [28\. Rethinking the component model with Hooks](https://sid.studio/post/rethinking-component-model/)
+- [useWhyDidYouUpdate | useHooks](https://usehooks.com/useWhyDidYouUpdate/)
+- [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
+- [useHooks - Easy to understand React Hook recipes](https://usehooks.com/)
+- [From Redux to Hooks: A Case Study](https://staleclosures.dev/from-redux-to-hooks-case-study/)

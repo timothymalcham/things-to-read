@@ -20,6 +20,10 @@
 - [How "Slow and Steady" Is Getting Us to Our Goal of Ramen Profitability - Indie Hackers](https://www.indiehackers.com/interview/b836541931)
 - [How I’ve Grown a No-frills Service to $4,000/Mo in Revenue - Indie Hackers](https://www.indiehackers.com/interview/9069441940)
 - [You don’t need to quit your job to make - DEV Community 👩‍💻👨‍💻](https://dev.to/stephsmithio/you-dont-need-to-quit-your-job-to-make-12kg)
+- [The Trial-and-Error Path from $0 to $1 Million with Dominic Wells of Human Proof Designs - The Indie Hackers Podcast](https://www.indiehackers.com/podcast/083-dominic-wells-of-human-proof-designs)
+- [Transforming My Simple Daily Habit into $20,000 per Month - Indie Hackers](https://www.indiehackers.com/interview/063525ef84)
+- [How I’m Getting Richer Every Day - Darius Foroux](https://dariusforoux.com/how-im-getting-richer/)
+
 
 ## SEO
 
@@ -29,12 +33,15 @@
 - [30 Questions To Ask Before Joining A Startup - AngelList](https://angel.co/blog/30-questions-to-ask-before-joining-a-startup)
 - [A one-minute guide to SEO success](https://www.indiehackers.com/forum/a-one-minute-guide-to-seo-success-429768e680)
 
+
 ## Business tools
 
 - [ConvertKit | Email Marketing for Online Creators](https://convertkit.com/?mbsy_source=89875eb4-4a09-466f-b38b-4d31b89093cd&mbsy=d9Tt6&utm_source=mbsy.co&utm_medium=referral&utm_campaign=29355&campaignid=29355)
 - [SEO and Blogging Services for Business—on Autopilot 🚀 PubLoft](https://publoft.com/)
 - [Our 2019 Answer to "What's in your tech stack?"](https://www.indiehackers.com/@alexhillman/our-2019-answer-to-what-s-in-your-tech-stack-25e09be61c)
 - [Burner Mail - Fast, Easy, Burner Email Addresses](https://burnermail.io/)
+- [Landing Page Checklist](https://www.louisnicholls.com/landing-page-checklist/#intro)
+- [Carrd - Simple, free, fully responsive one-page sites for pretty much anything](https://carrd.co/)
 
 ## Equity/Fintech
 

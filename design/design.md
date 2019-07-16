@@ -3,8 +3,14 @@
 - [Humane by design](https://humanebydesign.com/)
 - [Exclusive Design](https://exclusive-design.vasilis.nl/)
 - [10 Essential Visual Design Best Practices for Beginners | Designlab](https://trydesignlab.com/blog/essential-visual-design-best-practices-beginners/?me=timothymalcham@gmail.com)
+- [Redesigning Github repository page @ tonsky.me](http://tonsky.me/blog/github-redesign/?utm_source=hackernewsletter&utm_medium=email&utm_term=design)
+- [How developers and tech founders can turn their ideas into UI design | Blog | Simon McCade | UI UX Designer for Tech Startups | Bristol](https://www.simonmccade.com/blog/how-developers-and-tech-founders-can-turn-their-ideas-into-ui-design)
 
-# CSS
+## Inspiration
+
+- [Misc. Design | The portfolio work of Tyler Deeb](http://tylerdeeb.com/)
+
+## CSS
 
 - [CodePen - CSS Grid: Train Ticket](https://codepen.io/oliviale/full/MZZYyO)
 - [New Year, New Website – Meagan Fisher – Medium](https://medium.com/@owltastic/new-year-new-website-7065afa64057)
