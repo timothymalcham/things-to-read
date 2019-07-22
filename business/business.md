@@ -23,6 +23,7 @@
 - [The Trial-and-Error Path from $0 to $1 Million with Dominic Wells of Human Proof Designs - The Indie Hackers Podcast](https://www.indiehackers.com/podcast/083-dominic-wells-of-human-proof-designs)
 - [Transforming My Simple Daily Habit into $20,000 per Month - Indie Hackers](https://www.indiehackers.com/interview/063525ef84)
 - [How I’m Getting Richer Every Day - Darius Foroux](https://dariusforoux.com/how-im-getting-richer/)
+- [Growing to $1,000/mo by Avoiding Distraction and Staying Lean - Indie Hackers](https://www.indiehackers.com/interview/f043e22a2b)
 
 
 ## SEO

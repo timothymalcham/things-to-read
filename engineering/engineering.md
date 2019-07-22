@@ -152,3 +152,5 @@
 ### Education/learning
 
 - [Composing Software by Eric Elliott [Leanpub PDF/iPad/Kindle]](https://leanpub.com/composingsoftware)
+- [Algorithms & Data Structures](http://cs-playground-react.surge.sh/)
+- [Computer Science for Front End Developers? | benmccormick.org](https://benmccormick.org/2018/02/20/cs-for-fe/)

@@ -9,6 +9,13 @@
 - [Buy Limonene | Organic Food Grade Terpenes For Sale](https://buy-terpenes.com/products/tt/isolates/limonene/)
 
 
+## Recipes
+
+- [The Greenest Green Salad Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1019284-the-greenest-green-salad?emc=edit_NN_p_20190502&nl=morning-briefing&nlid=67446758ction%3DaBreak&section=aBreak&te=1)
+- [Farro With Salmon, Cucumber, Radicchio and Dill Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1019493-farro-with-salmon-cucumber-radicchio-and-dill?emc=edit_NN_p_20190506&nl=morning-briefing&nlid=67446758ction%3DaBreak&section=aBreak&te=1)
+- [Shakshuka Recipe | Taste of Home](https://www.tasteofhome.com/recipes/shakshuka/)x
+
+
 ## Fitness
 - [20 rep squat program](https://www.jackedfactory.com/20-rep-squat-program/)
 
@@ -41,6 +48,7 @@
 - [How To Successfully Self-Publish A Children's Picture Book | The Creative Penn](https://www.thecreativepenn.com/2018/04/28/how-to-successfully-self-publish-a-childrens-picture-book/)
 - [Self-Publishing a Children's Book | Art Bookbindery](http://www.artbookbindery.com/self-publishing-a-childrens-book.php)
 - [How Spotify & Discover Weekly Earns Me $400 / Month — Steve Benjamins](https://www.stevebenjamins.com/blog/spotify-and-discover-weekly)
+- [Self-publishing a picture book | Self-publishing adventures](https://selfpublishingadventures.com/self-publishing-a-childrens-picture-book/)
 
 ## Music
 
